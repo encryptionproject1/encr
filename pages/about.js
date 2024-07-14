@@ -351,14 +351,6 @@ export default function About(props) {
                 {t('home')}
               </Button>
 
-              <IconButton
-                href="https://github.com/sh-dv/hat.sh"
-                target="_blank"
-                rel="noopener"
-              >
-                <GitHubIcon />
-              </IconButton>
-
               <Settings />
             </Toolbar>
           </Container>
